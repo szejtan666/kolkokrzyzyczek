@@ -1,0 +1,38 @@
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.exe
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.deps.json
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.runtimeconfig.json
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.runtimeconfig.dev.json
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\ref\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.pdb
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csprojAssemblyReference.cache
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.Form1.resources
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.WYGRANSKO.resources
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csproj.GenerateResource.cache
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.AssemblyInfoInputs.cache
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.AssemblyInfo.cs
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csproj.CoreCompileInputs.cache
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\ref\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.pdb
+C:\Users\Jacob_pc\Desktop\kolkokrzyzA — kopia\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.genruntimeconfig.cache
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.exe
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.deps.json
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.runtimeconfig.json
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.runtimeconfig.dev.json
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\ref\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\bin\Debug\net5.0-windows\kulkoikrzyzykens.pdb
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csprojAssemblyReference.cache
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.Form1.resources
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.WYGRANSKO.resources
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csproj.GenerateResource.cache
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.AssemblyInfoInputs.cache
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.AssemblyInfo.cs
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.csproj.CoreCompileInputs.cache
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\ref\kulkoikrzyzykens.dll
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.pdb
+C:\Users\Jacob_pc\Desktop\kulkoikrzyzykens\kulkoikrzyzykens\obj\Debug\net5.0-windows\kulkoikrzyzykens.genruntimeconfig.cache
